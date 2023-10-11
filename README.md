@@ -37,7 +37,7 @@
     </td>
      <td>
        <a href="https://www.github.com/Eyuleo">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=Eyuleo&repo=alx-low_level_programming&theme=tokyonight&show_icons=true&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=Eyuleo&repo=alx-low_level_programming&theme=tokyonight&show_icons=true&hide_border=true"/>
       </a>
     </td>
   </tr>
