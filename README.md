@@ -44,7 +44,7 @@
 </table>
 <p align="center"> 
   <a href="https://www.instagram.com/ongodwillin">
-    <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/ongodwillin-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
 <a href="https://linkedin.com/in/eyuel-abiyot">
