@@ -42,11 +42,6 @@
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuleo&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
-     <td>
-       <a href="https://www.github.com/Eyuleo/alx-low_level_programming">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=Eyuleo&repo=alx-low_level_programming&theme=tokyonight&show_icons=true&hide_border=true"/>
-      </a>
-    </td>
   </tr>
 </table>
 <p align="center"> 
