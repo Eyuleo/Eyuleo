@@ -27,19 +27,13 @@
   <tr>
     <td>
       <a href="https://www.github.com/Eyuleo">
-     <img src="https://github-readme-stats.vercel.app/api?username=Eyuleo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Eyuleo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Eyuel" />
       </a>
     </td>
     <td> 
+      <td>
       <a href="https://www.github.com/Eyuleo">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=Eyuleo&hide_border=true&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.github.com/Eyuleo">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuleo&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuleo&show_icons=true&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
